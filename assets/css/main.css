@@ -1995,6 +1995,7 @@ input, select, textarea {
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
+		color: white;
 	}
 
 		.icon:before {
@@ -3011,6 +3012,7 @@ input, select, textarea {
 
 			ul.icons li .icon {
 				font-size: 1.25em;
+				color: white;
 			}
 
 		/* Header */
